@@ -1,2 +1,0 @@
-model_checkpoint_path: "linear.npz"
-all_model_checkpoint_paths: "linear.npz"

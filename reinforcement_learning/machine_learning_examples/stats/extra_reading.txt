@@ -1,2 +1,0 @@
-The Unbiased Estimate of the Covariance Matrix
-https://lazyprogrammer.me/covariance-matrix-divide-by-n-or-n-1/
